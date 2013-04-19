@@ -17,7 +17,7 @@ Requirements
 Installation
 ============
 
-    npm install imap
+    npm install https://github.com/daxxog/node-imap/tarball/fork1
 
 Example
 =======
